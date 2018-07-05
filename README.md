@@ -1,5 +1,6 @@
 # g3n3r4t1v3
-A collection of generative art made by me.
+4 c0ll3ct10n 0f g3n3r4t1v3 4rt m4d3 by m3 1n pr0c3ss1ng.
+D0 wh4t3v3r y0u w4nt w1th 1t.
 
 
 ## /black_hole
