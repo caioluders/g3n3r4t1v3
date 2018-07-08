@@ -7,6 +7,7 @@ void setup() {
 		lines[i][1] = 0 ; 
 	}
 	background(0);
+	noSmooth();
 	stroke(255) ;
 	frameRate(1600);
 }
